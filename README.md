@@ -1,0 +1,1 @@
+This is a low level approach of getting multiple large (100GB) files and combining them into hdfs. Uses multiprocessing and runs quickly. At most, this uses 7-8GB of memory.
